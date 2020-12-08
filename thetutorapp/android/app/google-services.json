@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130691767592",
+    "firebase_url": "https://thetutorapp-e05bf-default-rtdb.firebaseio.com",
+    "project_id": "thetutorapp-e05bf",
+    "storage_bucket": "thetutorapp-e05bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130691767592:android:6b2bad760d4b8e381d841d",
+        "android_client_info": {
+          "package_name": "com.example.thetutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130691767592-r18c1eiursa6cf3gs655a22p0ninhv9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFtQinqPm2b1KQ2won-OlMKzVoa9qkqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130691767592-r18c1eiursa6cf3gs655a22p0ninhv9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
